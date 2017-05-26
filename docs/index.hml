@@ -4,5 +4,8 @@
 <link rel="stylesheet" href="https://dev.mavo.io/dist/mavo.css">
 </head>
 <body>
+<div mv-app="mavoTest">
+	My first Mavo app!
+</div>
 </body>
 </html>
